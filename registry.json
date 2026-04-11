@@ -201,7 +201,7 @@
       "name": "encrypted-pages",
       "description": "Password-protect individual pages.",
       "source": "github:quartz-community/encrypted-pages",
-      "tags": ["transformer"],
+      "tags": ["transformer", "emitter", "component"],
       "official": true
     },
     {
@@ -293,6 +293,13 @@
       "description": "Only publishes pages with an explicit publish flag.",
       "source": "github:quartz-community/explicit-publish",
       "tags": ["filter"],
+      "official": true
+    },
+    {
+      "name": "unlisted-pages",
+      "description": "Excludes pages marked as unlisted from indexes and navigation while still publishing them.",
+      "source": "github:quartz-community/unlisted-pages",
+      "tags": ["transformer"],
       "official": true
     },
     {
