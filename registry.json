@@ -328,6 +328,13 @@
       "official": true
     },
     {
+      "name": "obsidian-plugin-excalidraw",
+      "description": "Quartz integration for the Obsidian Excalidraw drawing plugin.",
+      "source": "github:quartz-community/obsidian-plugin-excalidraw",
+      "tags": ["integration", "component"],
+      "official": true
+    },
+    {
       "name": "quartz-leaflet-bases-plugin",
       "description": "Custom Leaflet map support for Quartz pages.",
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
